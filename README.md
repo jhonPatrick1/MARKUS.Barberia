@@ -35,7 +35,7 @@ Diseñada para ser rápida, intuitiva y *mobile-first*, permitiendo a los client
 <br>
 
 <div align="center">
-  <img src="./asset/cliente1.png" width="32%" alt="Vista Cliente 1">
+  <img src="./assets/cliente1.png" width="32%" alt="Vista Cliente 1">
   <img src="./assets/cliente2.png" width="32%" alt="Vista Cliente 2">
   <img src="./assets/cliente3.png" width="32%" alt="Vista Cliente 3">
 </div>
