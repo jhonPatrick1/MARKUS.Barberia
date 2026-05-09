@@ -32,23 +32,41 @@ Diseñada para ser rápida, intuitiva y *mobile-first*, permitiendo a los client
 * **Confirmación por WhatsApp:** Integración fluida para enviar los detalles de la reserva directamente al WhatsApp del cliente y de la recepción.
 * **Diseño Premium:** Interfaz con temática oscura (Dark Mode), optimizada para una experiencia de usuario de alta gama.
 
-> 📸 *(Recomendación: Sube aquí una captura de pantalla de la vista del cliente y usa este código para mostrarla)*
-> `![Vista Cliente](./ruta-de-tu-imagen-cliente.jpg)`
+<br>
+
+<div align="center">
+  <img src="./cliente1.png" width="32%" alt="Vista Cliente 1">
+  <img src="./cliente2.png" width="32%" alt="Vista Cliente 2">
+  <img src="./cliente3.png" width="32%" alt="Vista Cliente 3">
+</div>
 
 ---
 
 ## ⚙️ 2. Panel Administrativo (Back-office B2B)
 
-El núcleo operativo del negocio. Un dashboard seguro y reactivo diseñado para que la recepción y administración tengan control total de las 3 sedes sin margen de error.
+El núcleo operativo del negocio. Un dashboard seguro y reactivo diseñado para que la recepción y administración tengan control total sin margen de error.
 
+* **Aislamiento por Sedes (Multi-Tenant):** Así como se observa en las capturas el panel de la sede "Pueblo Libre", la arquitectura del sistema garantiza que **cada una de las 3 sedes cuente con su propio entorno independiente**. La información, citas, métricas y barberos están estrictamente aislados según el local, asegurando una gestión limpia y sin cruce de datos entre sucursales.
 * **Seguridad Blindada:** Acceso restringido mediante **Middleware de Next.js** (redirección si no hay sesión) y políticas **RLS** en la base de datos para evitar consultas no autorizadas.
 * **Sincronización en Tiempo Real:** Integración de *Supabase Realtime*. Cuando un cliente reserva desde su celular, el panel de la recepcionista se actualiza instantáneamente sin necesidad de recargar la página.
 * **Manifiesto Diario y Filtros:** Vista de agenda por barbero, por sede y por estado de la cita (Pendiente, Atendido, Cancelado), facilitando el flujo de trabajo diario.
 * **Edición y Reasignación Inteligente:** Al reprogramar una cita o agregar servicios extra desde el panel, el sistema vuelve a validar la disponibilidad para evitar cruces con citas futuras.
 * **Gestión Multinivel:** Control de métricas, cobros y administración de los barberos en cada una de las 3 locaciones físicas.
 
-> 📸 *(Recomendación: Sube aquí una captura de pantalla del panel de administrador)*
-> `![Panel Administrador](./ruta-de-tu-imagen-admin.jpg)`
+<br>
+
+<div align="center">
+  <img src="./admin1.png" width="49%" alt="Panel Administrador 1">
+  <img src="./admin2.png" width="49%" alt="Panel Administrador 2"><br><br>
+  <img src="./admin3.png" width="49%" alt="Panel Administrador 3">
+  <img src="./admin4.png" width="49%" alt="Panel Administrador 4"><br><br>
+  <img src="./admin5.png" width="49%" alt="Panel Administrador 5">
+  <img src="./admin6.png" width="49%" alt="Panel Administrador 6"><br><br>
+  <img src="./admin7.png" width="49%" alt="Panel Administrador 7">
+  <img src="./admin8.png" width="49%" alt="Panel Administrador 8"><br><br>
+  <img src="./admin9.png" width="49%" alt="Panel Administrador 9">
+  <img src="./admin10.png" width="49%" alt="Panel Administrador 10">
+</div>
 
 ---
 
