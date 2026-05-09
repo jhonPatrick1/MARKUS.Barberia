@@ -35,9 +35,9 @@ Diseñada para ser rápida, intuitiva y *mobile-first*, permitiendo a los client
 <br>
 
 <div align="center">
-  <img src=".asset/cliente1.png" width="32%" alt="Vista Cliente 1">
-  <img src=".assets/cliente2.png" width="32%" alt="Vista Cliente 2">
-  <img src=".assets/cliente3.png" width="32%" alt="Vista Cliente 3">
+  <img src="./asset/cliente1.png" width="32%" alt="Vista Cliente 1">
+  <img src="./assets/cliente2.png" width="32%" alt="Vista Cliente 2">
+  <img src="./assets/cliente3.png" width="32%" alt="Vista Cliente 3">
 </div>
 
 ---
@@ -56,16 +56,16 @@ El núcleo operativo del negocio. Un dashboard seguro y reactivo diseñado para 
 <br>
 
 <div align="center">
-  <img src=".assets/admin1.png" width="49%" alt="Panel Administrador 1">
-  <img src=".assets/admin2.png" width="49%" alt="Panel Administrador 2"><br><br>
-  <img src=".assets/admin3.png" width="49%" alt="Panel Administrador 3">
-  <img src=".assets/admin4.png" width="49%" alt="Panel Administrador 4"><br><br>
-  <img src=".assets/admin5.png" width="49%" alt="Panel Administrador 5">
-  <img src=".assets/admin6.png" width="49%" alt="Panel Administrador 6"><br><br>
-  <img src=".assets/admin7.png" width="49%" alt="Panel Administrador 7">
-  <img src=".assets/admin8.png" width="49%" alt="Panel Administrador 8"><br><br>
-  <img src=".assets/admin9.png" width="49%" alt="Panel Administrador 9">
-  <img src=".assets/admin10.png" width="49%" alt="Panel Administrador 10">
+  <img src="./assets/admin1.png" width="49%" alt="Panel Administrador 1">
+  <img src="./assets/admin2.png" width="49%" alt="Panel Administrador 2"><br><br>
+  <img src="./assets/admin3.png" width="49%" alt="Panel Administrador 3">
+  <img src="./assets/admin4.png" width="49%" alt="Panel Administrador 4"><br><br>
+  <img src="./assets/admin5.png" width="49%" alt="Panel Administrador 5">
+  <img src="./assets/admin6.png" width="49%" alt="Panel Administrador 6"><br><br>
+  <img src="./assets/admin7.png" width="49%" alt="Panel Administrador 7">
+  <img src="./assets/admin8.png" width="49%" alt="Panel Administrador 8"><br><br>
+  <img src="./assets/admin9.png" width="49%" alt="Panel Administrador 9">
+  <img src="./assets/admin10.png" width="49%" alt="Panel Administrador 10">
 </div>
 
 ---
